@@ -1,1 +1,1 @@
-my new created directory of README
+my updated created directory of README
